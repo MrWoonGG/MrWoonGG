@@ -1,4 +1,4 @@
-# ✨ Vlad (aka K4NOKA)
+# ✨ MrWoonGG (AKA srwqfix; AKA MrWoon)
 
 > Python Enjoyer 🐍 | Game Dev on Godot 🎮 | Web & Bot Developer 🤖  
 > Made in 🇺🇦 - Doing What I Can, Learning as I Go ☕
