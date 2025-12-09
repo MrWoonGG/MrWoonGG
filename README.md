@@ -6,14 +6,13 @@
 ---
 
 ## 💡 About Me
-I'm a student and self-taught developer who loves building cool and sometimes chaotic things —  
-from **games** and **bots** to **launchers**, **scripts**, and random experiments.  
+I’m a student at PPFK. I enjoy coding, I’m learning it, and I can already do some things, but I’m trying to improve my skills — from **games** and **bots** to **launchers**, **scripts**, and random experiments.  
 
 Mostly working with **Python**, **HTML/CSS/JS**, and **Godot**.  
-Used to write **Minecraft mods & plugins**, **SAMP servers (PAWN)**,  
+Used **Java** to write **Minecraft mods & plugins**, **SAMP servers (PAWN)**,  
 and even made my own **PHP-based launcher**.
 
-Right now I’m still learning — but I do my best to grow with every project 💪
+Right now I’m still learning — but I do my best to grow with every project 🙏
 
 ---
 
@@ -42,17 +41,13 @@ Find your vibe, not just random people.
 
 ## ⚡ Current Focus
 - Developing **ShahedEater** in Godot
-- Learning **Java**
-- Creating auto-setup for my **Arch configs**  
+- Learning **React**  
 
 ---
 
 ## 🎭 Fun Facts
-- Addiction to anime and dark themes 🖤
-- Dark mode = lifestyle
-- Spends 6 hours fixing 1 line... Praying it works
+- i love my dinosaur 🦖♥️
 
 ---
 
-> Made with ❤️
-> *“Just a student developer doing what he can—eating, coding, and sleeping"*
+> Made with ♥️
